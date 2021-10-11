@@ -9,4 +9,4 @@ The time complexity is O (log n), because the binary search algorithm is used, w
 
 ### Space Complexity
 
-The Space Complexity is O (log n), because every iteration has O(1) space complexity and we iterate log (n) times.
+The Space Complexity is O (1), because there are no extra values, which you need to store 
